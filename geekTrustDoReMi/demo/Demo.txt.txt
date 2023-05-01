@@ -1,0 +1,11 @@
+Step 1:  Navigate to the folder you want to clone your repository in.
+Step 2: Use the `git clone {git url}` command to clone the repo.
+Step 3: Navigate to the cloned repo folder in your local system.
+Step 4: Make the required changes in the file 
+Step 5: Use `git add .` command to add all the changes in the git initialized repo
+Step 6: Use `git commit -S -m “{commit message}` to create a verified signed commit 
+Step 7: Now, use `git pull` to update your local repo with the main branch in Github
+Step 8: Push the changes with the command `git push -u origin main`.
+Step 9: To view all the branches in your repo, use the command `git branch -a`
+Step 10: To checkout to any different branch, use `git checkout {branch name}`
+Step 11: To head back to the main/master branch, use `git checkout main`
